@@ -1,0 +1,17 @@
+body {
+  background: cornflowerblue;
+  margin: 0;
+  list-style: none;
+}
+
+#app {
+  padding: 10px;
+}
+
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 5px;
+  padding: 5px;
+}
